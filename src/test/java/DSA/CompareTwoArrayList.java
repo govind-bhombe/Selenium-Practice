@@ -34,6 +34,8 @@ public class CompareTwoArrayList {
 		ArrayList<String> l6= new ArrayList<String>(Arrays.asList("A","C","B","E","D","F"));
 		l5.retainAll(l6);
 		System.out.println(l5);
+		
+		// Test conflict
 	}
 
 }
