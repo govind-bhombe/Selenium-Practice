@@ -39,7 +39,7 @@ public class CompareTwoArrayList {
 
 		// Test Conflicts
 
-
+		// conflict resolved
 	}
 
 }
