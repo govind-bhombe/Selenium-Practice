@@ -35,7 +35,8 @@ public class CompareTwoArrayList {
 		l5.retainAll(l6);
 		System.out.println(l5);
 		
-		// Test conflict
+		// checking conflicts
+		// Test Conflicts
 	}
 
 }
