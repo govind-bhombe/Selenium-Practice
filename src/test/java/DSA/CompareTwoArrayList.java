@@ -36,7 +36,10 @@ public class CompareTwoArrayList {
 		System.out.println(l5);
 		
 		// checking conflicts
+
 		// Test Conflicts
+
+
 	}
 
 }
