@@ -10,13 +10,7 @@ hashtag#Round 1: (Technical)
 5.  
 6. Explain black-box testing and white-box testing. 
 7. What is the difference between an exception and an error? 
-8. Difference between findElement and findElements. 
-9. What is the difference between implicit wait and explicit wait? 
-10. Write Selenium code to automate a calendar WebElement. 
-11. How would you fetch the text from a text box in Selenium? 
-12. How do you enter text in an alert using Selenium? 
-13. What is the difference between checked and unchecked exceptions? 
-14. If an XPath selects two elements on a webpage, does findElement throw an exception? 
+
 15. Explain smoke testing and sanity testing. 
 16. What are relative locators in Selenium? 
 17. Explain the challenges you faced in your project. 
@@ -26,10 +20,7 @@ hashtag#Round 1: (Technical)
 #hashtag#hashtag
 hashtag#Round 2: (Techno-Managerial)
  
-1. Explain your framework in detail. 
-2. In your framework, if you have 100 pages, do you create 100 Page Objects? 
-3. What is an “Element click intercepted” exception, and how do you fix it? 
-4. How do you take screenshots for failed test cases only in TestNG? 
+
 5. Explain how to connect your test cases with Azure. 
 6. What is the get fetch command? 
 7. In Postman, how do you delete a variable after test execution is finished? 
@@ -112,24 +103,9 @@ Can you explain a real-time challenge you faced in a Cucumber project and how yo
 
 1️⃣ First round: Duration 1 hour
 Focused mainly on Java coding
-1. Does Map supports null keys?
-2. Can we use declare constructor static in java?
-3. Can we override and overload static methods in java?
-4. Can we create public static final variables in java?
-5. How to call constructors of other classes and same class in this class?
-6. Why do we use constructors in selenium?
-7. How can we run test method and test class multiple times like 100 times?
-8. Does priority in TestNG will have negative values and 0 value?
-9. Parameterized testing in TestNG?
-10. @BeforeTest and @BeforeClass difference?
-11. How to write Data Provider in TestNG?
-12. Groups in TestNG?
-13. Different waits in Selenium and their usage?
-14. OOPS concept in java and usage in Selenium?
-15. Can Constructor be private?
-16. You have 2 interfaces and you declared 4 methods in 1st interface and 2 methods in 2nd interface and now you are implementing those 2 interfaces in your class, you would want to implement only few declared methods from those 2 interfaces so how you deal with this?
-17. Coding ➡️ HashMap sorting using keys where it contains one null key 
-18. Coding ➡️ We have 3 stairs need to find number of possibilities to reach the 3rd stair from ground using java.
+
+
+15. 
 19. Git commands
  🔸 Git push origin feature-branch (Is this correct command and why?)
  🔸 Git stashing
@@ -139,18 +115,8 @@ Focused mainly on Java coding
 21. How to execute selenium tests in Jenkins?
 
 2️⃣ Second Round: Duration 50 min
-1. Selenium Framework explanation
-2. How to handle dynamic dropdowns in selenium?
-3. Can we automate CAPTCHA?
+
 4. Explain Exceptions hierarchy in java?
-5. Difference between driver.get() and driver.navigateTo() methods?
-6. Parameterization in TestNG?
-7. How to connect Maven and TestNG?
-8. What are streams in java and their usage?
-9. How to work with configuration files in selenium framework?
-10. Difference between Page Object Model (POM) and Page Factory? How Page factory implementing lazy initialization and how we can do same in POM?
-11. What is the hierarchy of TestNG annotations?
-12. How to run failed tests again in TestNG?
 
 3️⃣ Third Round: Duration 45 min
 1. Open "Crick buzz" website and get the 6's count of player by giving player name in Xpath? 
@@ -166,37 +132,14 @@ Focused mainly on Java coding
 🚀 Wipro Technologies Interview Questions – 14 July 2025 🎯
 For QA Automation Engineers with 4–8 years of experience
 
-✅ Java
-1. What are the differences between HashMap, TreeMap, and LinkedHashMap?
-2. Explain the purpose and usage of the Stream API in Java 8. Provide an example.
-3. What is the difference between Comparable and Comparator interfaces?
-4. What are some key features introduced in Java 8?
-5. How does the Optional class help prevent NullPointerException? Show example usage.
-6. What are functional interfaces in Java? Name a few from java.util.function.
-7. What does the volatile keyword do? When should it be used?
-8. How does Garbage Collection work in Java? What are the different types of collectors?
+
+
 
 ✅ Coding Questions
 9. Write a Java program to find duplicate elements in an array.
 10. Write a method to check if a string is a palindrome.
 11. Given an array of integers, return the first non-repeating element. If none, return -1.
 
-✅ Selenium
-12. How is findElement() different from findElements()?
-13. How do you handle multiple browser windows using WebDriver?
-14. What is Page Object Model (POM), and why is it used?
-15. How do you deal with dynamic elements in Selenium?
-16. What are the different types of waits in Selenium? Which one is preferred?
-17. How do you handle alerts and popups in Selenium?
-18. Can you automate CAPTCHA or OTP handling? Why or why not?
-19. How do you run Selenium tests in headless mode?
-
-✅ TestNG
-20. What are the advantages of using TestNG over JUnit?
-21. How do you perform data-driven testing in TestNG?
-22. What is the role of @DataProvider in TestNG?
-23. How do you control the execution order of tests in TestNG?
-24. What is a TestNG Listener, and when would you use one?
 
 ✅ Rest Assured
 25. How do you validate status codes and response bodies using Rest Assured?
@@ -294,27 +237,11 @@ Selenium with Java Testing Online Training New Batch! Click the Link to Register
 
 📌 Round 1 – Java + Coding + OOPS:
 
-1️⃣ Explain OOPS principles with real examples.
-2️⃣ Difference between ArrayList and LinkedHashSet.
-3️⃣ Write a Java program to reverse a string without using reverse().
-4️⃣ Explain StringBuilder vs StringBuffer.
-5️⃣ How do you handle NullPointerException in Java?
-6️⃣ Write a program to check if two strings are anagrams.
-7️⃣ Explain final, finally, and finalize.
-8️⃣ Difference between HashMap and HashTable.
+
 9️⃣ Write a program to rotate an array by K positions.
 
 📌 Round 2 – Selenium + Automation Framework:
 
-1️⃣ Explain Page Object Model and its benefits.
-2️⃣ Difference between implicit, explicit, and fluent waits.
-3️⃣ How do you handle dynamic elements using XPath?
-4️⃣ Explain TestNG annotations and their order.
-5️⃣ How do you capture screenshots for failed cases?
-6️⃣ Explain DataProvider in TestNG with an example.
-7️⃣ Scenario: Login button becomes enabled only after API call – how to handle?
-8️⃣ How do you manage parallel execution in Selenium?
-9️⃣ Explain use of DesiredCapabilities in Selenium.
 
 📌 Round 3 – API + SQL + Advanced Questions:
 
@@ -370,20 +297,8 @@ Manual Testing Questions:
 14. Where do you write your test cases? In Excel or some other tool?
 
 Automation Testing:
-
-1. Difference between implicit and explicit waits.
-2. Asked to share screen and write XPath for a given element.
-3. Use of Actions class and Select class.
-4. Explain your roles and responsibilities.
-5. Exceptions faced while working with Selenium (Give 5 examples).
 6. OOPS concepts (Inheritance, Abstraction, Polymorphism, etc.).
-7. Difference between findElement() vs findElements().
-8. How to handle alerts in Selenium?
-9. Write Selenium code to take a screenshot.
-10. What is priority in TestNG?
-11. Reports used in your framework.
-12. Difference between Scenario vs Scenario Outline in Cucumber BDD.
-13. Explain the framework you are working on.
+
 14. What are tags in Cucumber?
 15. How do you manage test data in your framework?
 16. Abstract class vs Interface.
@@ -554,11 +469,7 @@ Position: Automation Test Engineer (SDET)
 2. What does your daily workflow look like as an automation engineer?
 3. Explain your automation framework design — which design patterns and tools do you use?
 4. How do you manage test data across multiple environments (e.g., QA, UAT, Prod)?
-5. Explain how you implemented the Page Object Model in your framework.
-6. What’s the difference between hard and soft assertions in TestNG? Where have you used them?
-7. Write a Selenium Java code to handle a dynamic dropdown or autocomplete list.
-8. How do you handle synchronization issues in Selenium? Explain different wait strategies.
-9. What is your approach to running tests in parallel using TestNG or Maven Surefire plugin?
+
 10. Explain the structure of your CI/CD pipeline. How are tests triggered?
 11. How do you integrate test automation into Jenkins pipelines? Share your pipeline script flow.
 12. How do you capture logs and screenshots during test failures?
