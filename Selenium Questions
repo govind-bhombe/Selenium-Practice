@@ -1,1 +1,86 @@
+✅ POM
+1. Difference between Page Object Model (POM) and Page Factory? How Page factory implementing lazy initialization and how we can do same in POM?
+2. What is Page Object Model (POM), and why is it used?
+3. Explain Page Object Model and its benefits.
+4. Explain how you implemented the Page Object Model in your framework.
+5. 
+
+
+✅ TestNG
+1. What are the advantages of using TestNG over JUnit?
+2. How do you perform data-driven testing in TestNG?
+3. What is the role of @DataProvider in TestNG?
+4. How do you control the execution order of tests in TestNG?
+5. What is a TestNG Listener, and when would you use one?
+6.Explain TestNG annotations and their order.
+7.What’s the difference between hard and soft assertions in TestNG? Where have you used them?
+
+✅ Synchronization
+1. Difference between implicit, explicit, and fluent waits.
+2.Difference between implicit and explicit waits.
+3.How do you handle synchronization issues in Selenium? Explain different wait strategies.
+
+✅ Selenium.
+12. How is findElement() different from findElements()?
+13. How do you handle multiple browser windows using WebDriver?
+14. 
+15. How do you deal with dynamic elements in Selenium?
+16. What are the different types of waits in Selenium? Which one is preferred?
+17. How do you handle alerts and popups in Selenium?
+18. Can you automate CAPTCHA or OTP handling? Why or why not?
+19. How do you run Selenium tests in headless mode?
+3️⃣ How do you handle dynamic elements using XPath?
+4️⃣
+5️⃣ How do you capture screenshots for failed cases?
+6️⃣ 
+7️⃣ Scenario: Login button becomes enabled only after API call – how to handle?
+8️⃣ How do you manage parallel execution in Selenium?
+9️⃣ Explain use of DesiredCapabilities in Selenium.
+1. 
+2. Asked to share screen and write XPath for a given element.
+3. Use of Actions class and Select class.
+4. Explain your roles and responsibilities.
+5. Exceptions faced while working with Selenium (Give 5 examples).
+5. 
+6. 
+7. Write a Selenium Java code to handle a dynamic dropdown or autocomplete list.
+8. 
+9. What is your approach to running tests in parallel using TestNG or Maven Surefire plugin?
+7. Difference between findElement() vs findElements().
+8. How to handle alerts in Selenium?
+9. Write Selenium code to take a screenshot.
+10. What is priority in TestNG?
+11. Reports used in your framework.
+12. Difference between Scenario vs Scenario Outline in Cucumber BDD.
+13. Explain the framework you are working on.
+8. Difference between findElement and findElements. 
+9. What is the difference between implicit wait and explicit wait? 
+10. Write Selenium code to automate a calendar WebElement. 
+11. How would you fetch the text from a text box in Selenium? 
+12. How do you enter text in an alert using Selenium? 
+13. What is the difference between checked and unchecked exceptions? 
+14. If an XPath selects two elements on a webpage, does findElement throw an exception? 
+1. Explain your framework in detail. 
+2. In your framework, if you have 100 pages, do you create 100 Page Objects? 
+3. What is an “Element click intercepted” exception, and how do you fix it? 
+4. How do you take screenshots for failed test cases only in TestNG? 
+6. Why do we use constructors in selenium?
+7. How can we run test method and test class multiple times like 100 times?
+8. Does priority in TestNG will have negative values and 0 value?
+9. Parameterized testing in TestNG?
+10. @BeforeTest and @BeforeClass difference?
+11. How to write Data Provider in TestNG?
+12. Groups in TestNG?
+13. Different waits in Selenium and their usage?
+14. OOPS concept in java and usage in Selenium?
+1. Selenium Framework explanation
+2. How to handle dynamic dropdowns in selenium?
+3. Can we automate CAPTCHA?
+5. Difference between driver.get() and driver.navigateTo() methods?
+6. Parameterization in TestNG?
+7. How to connect Maven and TestNG?
+8. What are streams in java and their usage?
+9. How to work with configuration files in selenium framework?
+11. What is the hierarchy of TestNG annotations?
+12. How to run failed tests again in TestNG?
 
