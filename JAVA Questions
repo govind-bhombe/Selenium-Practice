@@ -1,1 +1,26 @@
-
+✅ Java
+1. Does Map supports null keys?
+2. Can we use declare constructor static in java?
+3. Can we override and overload static methods in java?
+4. Can we create public static final variables in java?
+5. How to call constructors of other classes and same class in this class?
+Can Constructor be private?
+16. You have 2 interfaces and you declared 4 methods in 1st interface and 2 methods in 2nd interface and now you are implementing those 2 interfaces in your class, you would want to implement only few declared methods from those 2 interfaces so how you deal with this?
+17. Coding ➡️ HashMap sorting using keys where it contains one null key 
+18. Coding ➡️ We have 3 stairs need to find number of possibilities to reach the 3rd stair from ground using java.
+1. What are the differences between HashMap, TreeMap, and LinkedHashMap?
+2. Explain the purpose and usage of the Stream API in Java 8. Provide an example.
+3. What is the difference between Comparable and Comparator interfaces?
+4. What are some key features introduced in Java 8?
+5. How does the Optional class help prevent NullPointerException? Show example usage.
+6. What are functional interfaces in Java? Name a few from java.util.function.
+7. What does the volatile keyword do? When should it be used?
+8. How does Garbage Collection work in Java? What are the different types of collectors?
+1️⃣ Explain OOPS principles with real examples.
+2️⃣ Difference between ArrayList and LinkedHashSet.
+3️⃣ Write a Java program to reverse a string without using reverse().
+4️⃣ Explain StringBuilder vs StringBuffer.
+5️⃣ How do you handle NullPointerException in Java?
+6️⃣ Write a program to check if two strings are anagrams.
+7️⃣ Explain final, finally, and finalize.
+8️⃣ Difference between HashMap and HashTable.
