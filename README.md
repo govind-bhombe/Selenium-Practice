@@ -1,47 +1,3 @@
-#Deloitte Senior Test Engineer Interview Questions ⁉️
-
-#hashtag#hashtag
-hashtag#Round 1: (Technical)
-
-1. Explain about yourself and your roles and responsibilities. 
-2. Write Java code to reverse a string while preserving the whitespace. 
-3. Given an SQL table, find the second-largest salary of an employee. 
-4. Explain the concept of joins and list the different types of joins available. 
-5.  
-6. Explain black-box testing and white-box testing. 
-7. What is the difference between an exception and an error? 
-
-15. Explain smoke testing and sanity testing. 
-16. What are relative locators in Selenium? 
-17. Explain the challenges you faced in your project. 
-18. How would you pick test cases for regression testing? 
-
-
-#hashtag#hashtag
-hashtag#Round 2: (Techno-Managerial)
- 
-
-5. Explain how to connect your test cases with Azure. 
-6. What is the get fetch command? 
-7. In Postman, how do you delete a variable after test execution is finished? 
-8. Why do you prefer using Cucumber BDD in your project? 
-9. Explain dynamic binding and static binding. 
-10. What is method overloading, and what is method overriding? 
-11. What is the difference between Comparable and Comparator? 
-12. How would you conclude that a login page is user-friendly? 
-13. What are 5 points you consider when writing a good test case? 
-14. Suppose a developer is not fixing a bug; how would you approach the situation? 
-15. What are the threads in JMeter? 
-16. Can you automate captchas? 
-17. In what cases would you require fluent waits? 
-18. In Selenium, how would you open a new tab? 
-19. In Jenkins, what is the purpose of a CRON expression? 
-
-hashtag#hashtag
-hashtag#Round 3 ( Hr Discussion )
-
-
-==============================================================================================
 
 #Cucumber with 
 hashtag#Selenium - Interview Questions 
@@ -89,34 +45,14 @@ Explain the use of ScenarioContext or TestContext in Cucumber.
 How do you handle failures in a Cucumber framework?
 How do you debug a failing Cucumber scenario?
 What are some common errors in Cucumber, and how do you resolve them?
+6. What does the "Background" keyword signify in Cucumber?
+7. Can you explain the concept of hooks in Cucumber?
 
 7. Real-Time Scenarios
 How would you design a Cucumber BDD framework for an e-commerce application?
 Can you explain a real-time challenge you faced in a Cucumber project and how you solved it?
 
-𝐇𝐚𝐩𝐩𝐲 𝐓𝐞𝐬𝐭𝐢𝐧𝐠! 
 
-
-====================================================================================
-
-#PublicisSapient | Interview Questions | SDET
-
-1️⃣ First round: Duration 1 hour
-Focused mainly on Java coding
-
-
-15. 
-19. Git commands
- 🔸 Git push origin feature-branch (Is this correct command and why?)
- 🔸 Git stashing
- 🔸 Git cherry pick
- 🔸 Git branching
-20. Parallel Execution in Selenium?
-21. How to execute selenium tests in Jenkins?
-
-2️⃣ Second Round: Duration 50 min
-
-4. Explain Exceptions hierarchy in java?
 
 3️⃣ Third Round: Duration 45 min
 1. Open "Crick buzz" website and get the 6's count of player by giving player name in Xpath? 
@@ -129,11 +65,6 @@ Focused mainly on Java coding
 
 ========================================================================================================
 
-🚀 Wipro Technologies Interview Questions – 14 July 2025 🎯
-For QA Automation Engineers with 4–8 years of experience
-
-
-
 
 ✅ Coding Questions
 9. Write a Java program to find duplicate elements in an array.
@@ -141,19 +72,9 @@ For QA Automation Engineers with 4–8 years of experience
 11. Given an array of integers, return the first non-repeating element. If none, return -1.
 
 
-✅ Rest Assured
-25. How do you validate status codes and response bodies using Rest Assured?
-26. What is the difference between path() and jsonPath() methods?
-27. How do you send a POST request with a JSON payload using Rest Assured?
-28. How can you implement request chaining in API automation?
-29. How do you handle OAuth2 or token-based authentication in Rest Assured?
 
-✅ Scenario-Based / Practical Questions
-30. How would you design a Selenium-based test automation framework from scratch?
-31. Some test cases fail intermittently. How would you approach debugging them?
-32. How do you manage test data for automated test suites?
-33. How would you integrate your automation suite with Jenkins or any CI tool?
-34. How would you report automation test results to your QA manager or stakeholders?
+
+
 
 𝐇𝐚𝐩𝐩𝐲 𝐓𝐞𝐬𝐭𝐢𝐧𝐠! 
 
@@ -171,76 +92,6 @@ For QA Automation Engineers with 4–8 years of experience
 8. Can you differentiate between white-box, black-box, and grey-box testing?
 9. What are the different types of black-box testing?
 10. Do you have any questions for us?
-
-=============================================================================================
-
-CGI Automation Testing Interview Questions 
-
-1) Among all the given locator which locator is fastest of all?
-2) If the method fails to find the element which of the two methods throws you the expectations?
-3) What is selenium?
-4) How to execute multiple Test cases at a time in TestNG?
-5) Which method allows you to change control from one window to other?
-6) Which annotations executed first?
-7) Which open source tolls allows us to read and write Ms Excel file using Java?
-8) How many types of XPath are there in selenium?
-9) In selenium 4, which of the following method allows us to take screenshot of a specific web element?
-10) Which language use in gherkins?
-11) When you only want to access a single element on a webpage which method will you use?
-12) Which class is used for drop-down in selenium?
-13) Which component of selenium is most important?
-14) Which keywords use in gherkins?
-15) How many locators does selenium has?
-16) Which exception is shown in selenium when there is a delay in the loading time of the elements with which we are interacting?
-17) Write correct syntax for absolute path
-18) What is Ui testing?
-19) Which XPath search dissimilar nodes in XML document from the current node
-20) What do you mean by open source software
-21) Which of following browser support selenium?
-22) Which method are present in POM to locate webelement?
-23) Which type of wait command waits for a certain amount of time before it throws an exception?
-24) Which tool you will use to manage and organised jar and lib in automation?
-25) is a type of change related testing performed after fixing a defect to confirm that a failure caused by the defect does not reoccur
-26) Which type of XPath start with a double forward slash?
-27) Which type of XPath start with a single forward slash?
-28) How many types of wait commands does the selenium web driver provide?
-29) Which of the following waits takes timeout and polling frequency as it's parameter?
-
-
-𝐇𝐚𝐩𝐩𝐲 𝐓𝐞𝐬𝐭𝐢𝐧𝐠! 
-
-==================================================================================================
-
-
-#Scenario-Based Interview Questions for Automation Testers
-
-1. You are asked to automate a functionality that is not yet fully developed. How do you handle this?
-2. If a test fails, what is your next step?
-3. If the application has minor changes, what would be your approach to modifying the automation scripts?
-4. How would you automate login functionality for a website?
-5. How would you automate a test scenario where you need to check if an email is sent after user registration?
-6. If there is a scenario that takes a long time to execute, would you prefer manual testing or automation?
-7. How would you automate a scenario where you need to validate the contents of a downloaded file after clicking a button on a webpage?
-8. How would you automate a scenario where you need to verify a specific color, font, and position of an element on a webpage?
-9. How would you handle pop-up windows or alert boxes in your automation script?
-10. How would you automate a scenario where you need to verify if a user is able to scroll down a webpage until the footer section is visible?
-11. You are asked to automate a legacy application. What is your approach?
-12. A script you wrote was working fine yesterday but is failing today. How do you troubleshoot it?
-13. Your automation scripts are running slowly. How can you improve the speed?
-14. Your automation script is failing due to a change in the application. How do you handle this?
-
-Selenium with Java Testing Online Training New Batch! Click the Link to Register for Free Demo Classes: https://lnkd.in/dWstZPPE
-
-=============================================================================================
-
-#Adobe QA Automation Interview – Full 3 Rounds Asked!
-
-📌 Round 1 – Java + Coding + OOPS:
-
-
-9️⃣ Write a program to rotate an array by K positions.
-
-📌 Round 2 – Selenium + Automation Framework:
 
 
 📌 Round 3 – API + SQL + Advanced Questions:
@@ -263,10 +114,7 @@ Selenium with Java Testing Online Training New Batch! Click the Link to Register
 1. Could you provide a program that identifies and prints duplicate numbers from a given array?
 2. What is a copy constructor in Java, and how is it used?
 3. What are the different types of constructors available in Java?
-4. How do you approach parallel testing in your projects?
-5. How do you manage test data in your testing processes? Which tools do you utilize, such as Apache POI?
-6. What does the "Background" keyword signify in Cucumber?
-7. Can you explain the concept of hooks in Cucumber?
+
 8. What is the difference between instance variables and local variables in Java?
 9. How does an interface differ from an abstract class in Java?
 10. Is multiple inheritance possible with two abstract classes in Java?
@@ -342,32 +190,7 @@ Q. How can you check whether a particular text present on a webpage? What are th
 Deloitte Interview Experience – Automation Test Engineer
 Application Method: Direct Application
 
-𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗰𝗿𝗲𝗲𝗻𝗶𝗻𝗴
 
-1. Walk me through your automation framework – which tools, design patterns, and reporting mechanisms do you use?
-2. Explain how you use **Selenium WebDriver with Java**. How do you handle dynamic web elements?
-3. What is the role of TestNG in your framework? How do you implement data-driven testing using `@DataProvider`?
-4. How do you handle waits in Selenium? What’s the difference between implicit, explicit, and fluent waits?
-5. How do you manage test execution in Jenkins? Have you set up CI pipelines for automated test runs?
-6. What kind of reports do you generate post automation execution? How do you integrate Extent Reports or Allure?
-7. What is Page Object Model (POM)? How do you maintain reusable components across multiple test cases?
-8. Have you automated REST API test cases? Which tools or libraries do you use (like Rest Assured or Postman)?
-9. How do you capture screenshots on failure and attach them to reports?
-10. What is your approach to version control? How do you structure your code in Git and collaborate with teams?
-
-
-𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗜𝗻-𝗱𝗲𝗽𝘁𝗵 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻
-
-1. Describe your framework’s lifecycle. How do you manage parallel execution, cross-browser testing, and reporting?
-2. How do you handle flaky test cases and reduce their occurrence?
-3. Explain your experience with API automation in detail – how do you validate headers, payloads, status codes, and chaining requests?
-4. Have you worked with Docker or containers in your automation environment? If yes, explain how you run your tests inside containers.
-5. How do you manage secrets, config files, and environment-specific data during test execution?
-6. What security tools or code quality tools have you integrated into your test pipeline (e.g., SonarQube, OWASP)?
-7. How do you ensure code coverage and track untested areas of your application?
-8. Have you worked on test data management? How do you create and clean test data in pre and post conditions?
-9. Explain how you’ve integrated Jenkins with your framework. How do you trigger jobs on Git commits?
-10. What are the benefits of using Maven or Gradle in test automation projects?
 
 𝗥𝗼𝘂𝗻𝗱 𝟯: 𝗛𝗠 𝗥𝗼𝘂𝗻𝗱 (𝗛𝗶𝗿𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿)
 
