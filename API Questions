@@ -1,1 +1,6 @@
-
+✅ Rest Assured
+25. How do you validate status codes and response bodies using Rest Assured?
+26. What is the difference between path() and jsonPath() methods?
+27. How do you send a POST request with a JSON payload using Rest Assured?
+28. How can you implement request chaining in API automation?
+29. How do you handle OAuth2 or token-based authentication in Rest Assured?
