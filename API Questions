@@ -4,3 +4,13 @@
 27. How do you send a POST request with a JSON payload using Rest Assured?
 28. How can you implement request chaining in API automation?
 29. How do you handle OAuth2 or token-based authentication in Rest Assured?
+6. What is dependency injection in Rest Assured? How does it enhance API testing?
+7. Explain the difference between HTTP 401 (Unauthorized) and HTTP 403 (Forbidden) status codes.
+8. What are Path parameters and Query parameters in API testing?
+9. What are the different HTTP methods used in API testing?
+10. What are the common HTTP status codes you have encountered during API testing?
+25. How do you validate response status code and response body in Rest Assured?
+26. Explain how you handle request headers and parameters in Rest Assured.
+27. How do you validate JSON schema using Rest Assured?
+28. Can you chain multiple API requests in one test case? How?
+29. What are some common challenges when testing APIs with Rest Assured?
