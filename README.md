@@ -9,13 +9,13 @@
 7. How do you handle SSL certificates in API automation?
 8. Explain integration of Selenium scripts with CI/CD tools like Jenkins.
 9. Scenario: Application loads slowly causing TimeoutException – how do you fix this?
-Q. How to upload zip file using API
-Q. Test the file upload functionality
-Q. Book-select venue-select date-payment -payementconfirm-THis is a small application - Explain the test strategy for the same
-Q. What all Test Estimation Technique you know of? What Test estimation technique you applied in your project?
-Q. How to prioritize test cases if the release date is very close
-Q. How you will raise a bug if the developer is not ready to accept it
-Q. If you were testing a new geolocation application related to food deliveries,
+10. How to upload zip file using API
+11. Test the file upload functionality
+12. Book-select venue-select date-payment -payementconfirm-THis is a small application - Explain the test strategy for the same
+13. What all Test Estimation Technique you know of? What Test estimation technique you applied in your project?
+14. How to prioritize test cases if the release date is very close
+15. How you will raise a bug if the developer is not ready to accept it
+16. If you were testing a new geolocation application related to food deliveries,
 1. Walk me through your current project and role.
 2. Behavioral questions related to ownership, adaptability, and communication.
 3. Discussion around long-term career plans and interest in automation innovation.
