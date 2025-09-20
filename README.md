@@ -1,14 +1,14 @@
  Real-Time Scenarios
 
-1 You have 3 frames(Frame A, Frame B, Frame C).After clicking Frame C, the application opens another tab containing a login, password, and sign-in function ? Write the Selenium automation script for this scenario ?
-30. One of your tests passes locally but fails on the CI pipeline. How would you debug this issue?
-31. How would you approach fixing a flaky Selenium test that fails intermittently?
-32. You notice a performance lag when running your automation suite. What steps would you take?
-33. A team member changed a utility method and now several tests are failing. How do you investigate?
-34. How do you decide whether to mock data or use real data in automated tests?
-5️⃣ How do you handle SSL certificates in API automation?
-6️⃣ Explain integration of Selenium scripts with CI/CD tools like Jenkins.
-9️⃣ Scenario: Application loads slowly causing TimeoutException – how do you fix this?
+1. You have 3 frames(Frame A, Frame B, Frame C).After clicking Frame C, the application opens another tab containing a login, password, and sign-in function ? Write the Selenium automation script for this scenario ?
+2. One of your tests passes locally but fails on the CI pipeline. How would you debug this issue?
+3.  How would you approach fixing a flaky Selenium test that fails intermittently?
+4. You notice a performance lag when running your automation suite. What steps would you take?
+5. A team member changed a utility method and now several tests are failing. How do you investigate?
+6. How do you decide whether to mock data or use real data in automated tests?
+7. How do you handle SSL certificates in API automation?
+8. Explain integration of Selenium scripts with CI/CD tools like Jenkins.
+9. Scenario: Application loads slowly causing TimeoutException – how do you fix this?
 Q. How to upload zip file using API
 Q. Test the file upload functionality
 Q. Book-select venue-select date-payment -payementconfirm-THis is a small application - Explain the test strategy for the same
