@@ -1,21 +1,6 @@
 ✅ Java
-1. Does Map supports null keys?
-2. Can we use declare constructor static in java?
-3. Can we override and overload static methods in java?
-4. Can we create public static final variables in java?
-5. How to call constructors of other classes and same class in this class?
-Can Constructor be private?
-16. You have 2 interfaces and you declared 4 methods in 1st interface and 2 methods in 2nd interface and now you are implementing those 2 interfaces in your class, you would want to implement only few declared methods from those 2 interfaces so how you deal with this?
-17. Coding ➡️ HashMap sorting using keys where it contains one null key 
-18. Coding ➡️ We have 3 stairs need to find number of possibilities to reach the 3rd stair from ground using java.
-1. What are the differences between HashMap, TreeMap, and LinkedHashMap?
-2. Explain the purpose and usage of the Stream API in Java 8. Provide an example.
-3. What is the difference between Comparable and Comparator interfaces?
-4. What are some key features introduced in Java 8?
-5. How does the Optional class help prevent NullPointerException? Show example usage.
-6. What are functional interfaces in Java? Name a few from java.util.function.
-7. What does the volatile keyword do? When should it be used?
-8. How does Garbage Collection work in Java? What are the different types of collectors?
+
+
 1️⃣ Explain OOPS principles with real examples.
 2️⃣ Difference between ArrayList and LinkedHashSet.
 3️⃣ Write a Java program to reverse a string without using reverse().
@@ -24,3 +9,64 @@ Can Constructor be private?
 6️⃣ Write a program to check if two strings are anagrams.
 7️⃣ Explain final, finally, and finalize.
 8️⃣ Difference between HashMap and HashTable.
+8. How does Garbage Collection work in Java? What are the different types of collectors?
+2. What is a copy constructor in Java, and how is it used?
+3. What are the different types of constructors available in Java?
+8. What is the difference between instance variables and local variables in Java?
+9. How does an interface differ from an abstract class in Java?
+10. Is multiple inheritance possible with two abstract classes in Java?
+11. Is multiple inheritance achievable through interfaces in Java?
+12. Can an abstract class inherit or implement an interface?
+13. Can an interface inherit or implement an abstract class?
+14. What is a thread in the context of programming?
+15. What are the differences between the `notify()` and `notifyAll()` methods in Java?
+1. Does Map supports null keys?
+2. Can we use declare constructor static in java?
+3. Can we override and overload static methods in java?
+4. Can we create public static final variables in java?
+5. How to call constructors of other classes and same class in this class?
+6. Can Constructor be private?
+16. You have 2 interfaces and you declared 4 methods in 1st interface and 2 methods in 2nd interface and now you are implementing those 2 interfaces in your class, you would want to implement only few declared methods from those 2 interfaces so how you deal with this?
+1. What are the differences between HashMap, TreeMap, and LinkedHashMap?
+2. Explain the purpose and usage of the Stream API in Java 8. Provide an example.
+3. What is the difference between Comparable and Comparator interfaces?
+4. What are some key features introduced in Java 8?
+5. How does the Optional class help prevent NullPointerException? Show example usage.
+6. What are functional interfaces in Java? Name a few from java.util.function.
+7. What does the volatile keyword do? When should it be used?
+Q. What’s the difference between a pointer and a reference?
+Q. Why do we use multi-threading?
+Q. What are the advantages of multi-threading in real-world applications?
+7. What is the purpose of interfaces in Java? Provide examples of how you have implemented them in your test automation framework.
+6. What is List and what is Set in Java?
+7. What is Map in Java? Do you use Map in your project?
+8. What is POJO in Java?
+31. What is return type in Java?
+32. What is the return type of a method if it returns a collection of data?
+5. What is the use of transient and volatile in Java?
+6. Difference between ConcurrentHashMap and HashMap.
+8. What is the default value of object references and primitive types?
+9. How do you sort a list of custom objects by multiple fields?
+Q. Why do we use LinkedList for manipulation, not Arraylist?
+Q. Why do we use LinkedList for manipulation, not ArrayList? (yes, they asked twice )
+
+-------------------------------------------------------------------
+
+✅ Coding Questions
+1. Could you provide a program that identifies and prints duplicate numbers from a given array?
+9. Write a Java program to find duplicate elements in an array.
+10. Write a method to check if a string is a palindrome.
+11. Given an array of integers, return the first non-repeating element. If none, return -1.
+1. Can you introduce yourself and share a bit about your background?
+2. Given the input lists `𝗽𝗿𝗲𝘀𝗲𝗻𝘁 = [𝟱, 𝟰, 𝟲, 𝟮, 𝟯]`, `𝗳𝘂𝘁𝘂𝗿𝗲 = [𝟴, 𝟱, 𝟰, 𝟯, 𝟱]`, and a budget of 10, what is the maximum profit you can achieve? For example, you can buy stocks at indices 0, 3, and 4 for a total of 5 + 2 + 3 = 10 and sell them the next year for 8 + 3 + 5 = 16, resulting in a profit of 6.
+3. For the array `[1, 2, 3, 4, 5]`, if you rotate it to the right by 3 positions, what will the new array look like?
+17. Coding ➡️ HashMap sorting using keys where it contains one null key 
+18. Coding ➡️ We have 3 stairs need to find number of possibilities to reach the 3rd stair from ground using java.
+6. Given an array {6, 8, 11, 6, 7, 18} and a target sum of 17, write a program to find the indices of any two elements whose sum equals the target.
+9. Write a Java method to check if a given string is a palindrome.
+10. Implement a function to return the duplicate elements from an integer array.
+11. Write a Java program to find the first non-repeating character in a string.
+1. Write Java code to count character frequency in a string using Streams.
+2. Write code to check if a number is a palindrome without converting to string.
+3. Write code to remove all non-alphabet characters from a sentence.
+
